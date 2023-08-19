@@ -1,4 +1,4 @@
-<h1>College Works/h1>
+<h1>College Works</h1>
 
 I'm using a method while writing my Python scripts that combines the "while True" loop with "try except" structures to do checks and validations on user inputs. These processes help to make sure that communications with the programs are more precise and understandable.
 
